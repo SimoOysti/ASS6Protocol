@@ -1,7 +1,7 @@
 # This project has been created for Python 2.
 ASS6 Protocol - version 1
 
-Author: Simo �ysti
+Author: Simo Öysti
 Date: March 29th 2019
 
 ************
